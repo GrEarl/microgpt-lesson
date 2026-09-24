@@ -1,0 +1,8 @@
+数学教材/
+__pycache__/
+.commandcode/
+*.bak
+media/
+_preview/
+first_name_*.csv
+IBMPlexSansJP*.ttf
